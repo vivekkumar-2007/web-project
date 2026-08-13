@@ -1,2 +1,2 @@
 # web-project
-# This is my first bootcamp projct
+# This is my first bootcamp project
