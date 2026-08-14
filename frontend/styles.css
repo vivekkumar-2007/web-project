@@ -4,6 +4,7 @@ h1{
 
 body{
     background-color: antiquewhite;
+    margin: 0px;
 }
 
 .card{
@@ -28,4 +29,25 @@ body{
     border-radius: 20px;
     padding: 10px;
     margin-bottom: 10px;
+}
+.navbar{
+    text-align: center;
+    border:3px solid black;
+
+    background-color: aliceblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: 0px;
+    
+    
+    
+}
+.navbar a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: brown;
+}
+.navbar a:hover{
+    color: blue;
+    text-decoration: underline;
 }
